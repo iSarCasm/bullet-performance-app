@@ -32,7 +32,7 @@ Sort by: self_time
   1.14      0.022     0.022     0.000     0.000   169832   Module#===                     
   1.08      0.023     0.021     0.000     0.003       43   <Module::Bootsnap::CompileCache::Native>#fetch 
 ```
-_Full profiling information can be found here: https://github.com/iSarCasm/bullet-performance-app/tree/main/rubyprof _
+_Full profiling information can be found here: https://github.com/iSarCasm/bullet-performance-app/tree/main/rubyprof_
 
 ## With bullet turned ON:
 ```
@@ -64,7 +64,7 @@ Sort by: self_time
   2.93      1.324     1.324     0.000     0.000 25170467   <Class::Thread>#current        
   1.56      0.706     0.706     0.000     0.000     5014   Array#flatten   
 ```
-_Full profiling information can be found here: https://github.com/iSarCasm/bullet-performance-app/tree/main/rubyprof _
+_Full profiling information can be found here: https://github.com/iSarCasm/bullet-performance-app/tree/main/rubyprof_
 
 ### Possible problem
 
