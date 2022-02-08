@@ -1,0 +1,338 @@
+Measure Mode: wall_time
+Thread ID: 14340
+Fiber ID: 15100
+Total: 45.175374
+Sort by: self_time
+
+ %self      total      self      wait     child     calls  name                           location
+ 21.73     16.381     9.816     0.000     6.565 25000015   Set#merge                      /Users/igortsykalo/.rbenv/versions/2.7.5/lib/ruby/2.7.0/set.rb:422
+ 19.01     39.600     8.589     0.000    31.010   276582  *Array#each                     
+ 11.75      8.288     5.309     0.000     2.980 25005000   <Class::Bullet::Detector::Association>#call_object_associations /Users/igortsykalo/.rbenv/versions/2.7.5/lib/ruby/gems/2.7.0/gems/bullet-7.0.1/lib/bullet/detector/association.rb:62
+  7.68      3.469     3.469     0.000     0.000 25005000   Bullet::Registry::Base#[]      /Users/igortsykalo/.rbenv/versions/2.7.5/lib/ruby/gems/2.7.0/gems/bullet-7.0.1/lib/bullet/registry/base.rb:12
+  6.97      4.516     3.151     0.000     1.365    25079  *Array#hash                     
+  4.70      2.121     2.121     0.000     0.000 25000004   Hash#update                    
+  3.71      1.675     1.674     0.000     0.000 25100087   Thread#[]                      
+  3.59      1.622     1.622     0.000     0.000 25005027   Kernel#instance_of?            
+  3.22      1.453     1.453     0.000     0.000 25010014   Kernel#instance_variable_get   
+  3.18      1.434     1.434     0.000     0.000 26205193   Kernel#class                   
+  3.01      1.360     1.359     0.000     0.000 25025185   String#hash                    
+  2.93      1.324     1.324     0.000     0.000 25170467   <Class::Thread>#current        
+  1.56      0.706     0.706     0.000     0.000     5014   Array#flatten                  
+
+* recursively called methods
+
+Columns are:
+
+  %self     - The percentage of time spent in this method, derived from self_time/total_time.
+  total     - The time spent in this method and its children.
+  self      - The time spent in this method.
+  wait      - The amount of time this method waited for other threads.
+  child     - The time spent in this method's children.
+  calls     - The number of times this method was called.
+  name      - The name of the method.
+  location  - The location of the method.
+
+The interpretation of method names is:
+
+  * MyObject#test - An instance method "test" of the class "MyObject"
+  * <Object:MyObject>#test - The <> characters indicate a method on a singleton class.
+Measure Mode: wall_time
+Thread ID: 4100
+Fiber ID: 15120
+Total: 45.174283
+Sort by: self_time
+
+ %self      total      self      wait     child     calls  name                           location
+
+* recursively called methods
+
+Columns are:
+
+  %self     - The percentage of time spent in this method, derived from self_time/total_time.
+  total     - The time spent in this method and its children.
+  self      - The time spent in this method.
+  wait      - The amount of time this method waited for other threads.
+  child     - The time spent in this method's children.
+  calls     - The number of times this method was called.
+  name      - The name of the method.
+  location  - The location of the method.
+
+The interpretation of method names is:
+
+  * MyObject#test - An instance method "test" of the class "MyObject"
+  * <Object:MyObject>#test - The <> characters indicate a method on a singleton class.
+Measure Mode: wall_time
+Thread ID: 14320
+Fiber ID: 124240
+Total: 44.307735
+Sort by: self_time
+
+ %self      total      self      wait     child     calls  name                           location
+
+* recursively called methods
+
+Columns are:
+
+  %self     - The percentage of time spent in this method, derived from self_time/total_time.
+  total     - The time spent in this method and its children.
+  self      - The time spent in this method.
+  wait      - The amount of time this method waited for other threads.
+  child     - The time spent in this method's children.
+  calls     - The number of times this method was called.
+  name      - The name of the method.
+  location  - The location of the method.
+
+The interpretation of method names is:
+
+  * MyObject#test - An instance method "test" of the class "MyObject"
+  * <Object:MyObject>#test - The <> characters indicate a method on a singleton class.
+Measure Mode: wall_time
+Thread ID: 14460
+Fiber ID: 124260
+Total: 44.307723
+Sort by: self_time
+
+ %self      total      self      wait     child     calls  name                           location
+
+* recursively called methods
+
+Columns are:
+
+  %self     - The percentage of time spent in this method, derived from self_time/total_time.
+  total     - The time spent in this method and its children.
+  self      - The time spent in this method.
+  wait      - The amount of time this method waited for other threads.
+  child     - The time spent in this method's children.
+  calls     - The number of times this method was called.
+  name      - The name of the method.
+  location  - The location of the method.
+
+The interpretation of method names is:
+
+  * MyObject#test - An instance method "test" of the class "MyObject"
+  * <Object:MyObject>#test - The <> characters indicate a method on a singleton class.
+Measure Mode: wall_time
+Thread ID: 124440
+Fiber ID: 124480
+Total: 42.160574
+Sort by: self_time
+
+ %self      total      self      wait     child     calls  name                           location
+
+* recursively called methods
+
+Columns are:
+
+  %self     - The percentage of time spent in this method, derived from self_time/total_time.
+  total     - The time spent in this method and its children.
+  self      - The time spent in this method.
+  wait      - The amount of time this method waited for other threads.
+  child     - The time spent in this method's children.
+  calls     - The number of times this method was called.
+  name      - The name of the method.
+  location  - The location of the method.
+
+The interpretation of method names is:
+
+  * MyObject#test - An instance method "test" of the class "MyObject"
+  * <Object:MyObject>#test - The <> characters indicate a method on a singleton class.
+Measure Mode: wall_time
+Thread ID: 124460
+Fiber ID: 124620
+Total: 42.160382
+Sort by: self_time
+
+ %self      total      self      wait     child     calls  name                           location
+
+* recursively called methods
+
+Columns are:
+
+  %self     - The percentage of time spent in this method, derived from self_time/total_time.
+  total     - The time spent in this method and its children.
+  self      - The time spent in this method.
+  wait      - The amount of time this method waited for other threads.
+  child     - The time spent in this method's children.
+  calls     - The number of times this method was called.
+  name      - The name of the method.
+  location  - The location of the method.
+
+The interpretation of method names is:
+
+  * MyObject#test - An instance method "test" of the class "MyObject"
+  * <Object:MyObject>#test - The <> characters indicate a method on a singleton class.
+Measure Mode: wall_time
+Thread ID: 124580
+Fiber ID: 124640
+Total: 42.160203
+Sort by: self_time
+
+ %self      total      self      wait     child     calls  name                           location
+
+* recursively called methods
+
+Columns are:
+
+  %self     - The percentage of time spent in this method, derived from self_time/total_time.
+  total     - The time spent in this method and its children.
+  self      - The time spent in this method.
+  wait      - The amount of time this method waited for other threads.
+  child     - The time spent in this method's children.
+  calls     - The number of times this method was called.
+  name      - The name of the method.
+  location  - The location of the method.
+
+The interpretation of method names is:
+
+  * MyObject#test - An instance method "test" of the class "MyObject"
+  * <Object:MyObject>#test - The <> characters indicate a method on a singleton class.
+Measure Mode: wall_time
+Thread ID: 124500
+Fiber ID: 124660
+Total: 42.159717
+Sort by: self_time
+
+ %self      total      self      wait     child     calls  name                           location
+
+* recursively called methods
+
+Columns are:
+
+  %self     - The percentage of time spent in this method, derived from self_time/total_time.
+  total     - The time spent in this method and its children.
+  self      - The time spent in this method.
+  wait      - The amount of time this method waited for other threads.
+  child     - The time spent in this method's children.
+  calls     - The number of times this method was called.
+  name      - The name of the method.
+  location  - The location of the method.
+
+The interpretation of method names is:
+
+  * MyObject#test - An instance method "test" of the class "MyObject"
+  * <Object:MyObject>#test - The <> characters indicate a method on a singleton class.
+Measure Mode: wall_time
+Thread ID: 124520
+Fiber ID: 124680
+Total: 42.159515
+Sort by: self_time
+
+ %self      total      self      wait     child     calls  name                           location
+
+* recursively called methods
+
+Columns are:
+
+  %self     - The percentage of time spent in this method, derived from self_time/total_time.
+  total     - The time spent in this method and its children.
+  self      - The time spent in this method.
+  wait      - The amount of time this method waited for other threads.
+  child     - The time spent in this method's children.
+  calls     - The number of times this method was called.
+  name      - The name of the method.
+  location  - The location of the method.
+
+The interpretation of method names is:
+
+  * MyObject#test - An instance method "test" of the class "MyObject"
+  * <Object:MyObject>#test - The <> characters indicate a method on a singleton class.
+Measure Mode: wall_time
+Thread ID: 124540
+Fiber ID: 124700
+Total: 42.159293
+Sort by: self_time
+
+ %self      total      self      wait     child     calls  name                           location
+
+* recursively called methods
+
+Columns are:
+
+  %self     - The percentage of time spent in this method, derived from self_time/total_time.
+  total     - The time spent in this method and its children.
+  self      - The time spent in this method.
+  wait      - The amount of time this method waited for other threads.
+  child     - The time spent in this method's children.
+  calls     - The number of times this method was called.
+  name      - The name of the method.
+  location  - The location of the method.
+
+The interpretation of method names is:
+
+  * MyObject#test - An instance method "test" of the class "MyObject"
+  * <Object:MyObject>#test - The <> characters indicate a method on a singleton class.
+Measure Mode: wall_time
+Thread ID: 124560
+Fiber ID: 124720
+Total: 42.159090
+Sort by: self_time
+
+ %self      total      self      wait     child     calls  name                           location
+
+* recursively called methods
+
+Columns are:
+
+  %self     - The percentage of time spent in this method, derived from self_time/total_time.
+  total     - The time spent in this method and its children.
+  self      - The time spent in this method.
+  wait      - The amount of time this method waited for other threads.
+  child     - The time spent in this method's children.
+  calls     - The number of times this method was called.
+  name      - The name of the method.
+  location  - The location of the method.
+
+The interpretation of method names is:
+
+  * MyObject#test - An instance method "test" of the class "MyObject"
+  * <Object:MyObject>#test - The <> characters indicate a method on a singleton class.
+Measure Mode: wall_time
+Thread ID: 124600
+Fiber ID: 124740
+Total: 42.158969
+Sort by: self_time
+
+ %self      total      self      wait     child     calls  name                           location
+
+* recursively called methods
+
+Columns are:
+
+  %self     - The percentage of time spent in this method, derived from self_time/total_time.
+  total     - The time spent in this method and its children.
+  self      - The time spent in this method.
+  wait      - The amount of time this method waited for other threads.
+  child     - The time spent in this method's children.
+  calls     - The number of times this method was called.
+  name      - The name of the method.
+  location  - The location of the method.
+
+The interpretation of method names is:
+
+  * MyObject#test - An instance method "test" of the class "MyObject"
+  * <Object:MyObject>#test - The <> characters indicate a method on a singleton class.
+Measure Mode: wall_time
+Thread ID: 14480
+Fiber ID: 124820
+Total: 20.623791
+Sort by: self_time
+
+ %self      total      self      wait     child     calls  name                           location
+
+* recursively called methods
+
+Columns are:
+
+  %self     - The percentage of time spent in this method, derived from self_time/total_time.
+  total     - The time spent in this method and its children.
+  self      - The time spent in this method.
+  wait      - The amount of time this method waited for other threads.
+  child     - The time spent in this method's children.
+  calls     - The number of times this method was called.
+  name      - The name of the method.
+  location  - The location of the method.
+
+The interpretation of method names is:
+
+  * MyObject#test - An instance method "test" of the class "MyObject"
+  * <Object:MyObject>#test - The <> characters indicate a method on a singleton class.

@@ -23,6 +23,8 @@ gem "turbo-rails"
 
 gem 'bullet'
 
+gem 'ruby-prof'
+
 # Hotwire's modest JavaScript framework [https://stimulus.hotwired.dev]
 gem "stimulus-rails"
 
