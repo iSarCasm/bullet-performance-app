@@ -3,7 +3,7 @@ class CommentsController < ApplicationController
 
   # GET /comments or /comments.json
   def index
-    @comments = Comment.preload(:article).all
+    @comments = Comment.preload(:article).first(5_000)
   end
 
   # GET /comments/1 or /comments/1.json
